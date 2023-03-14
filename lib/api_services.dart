@@ -29,7 +29,7 @@ static sendmessage(String? message)async{
   );
 
   if(response.statusCode == 200){
-    var data = jsonDecode(response.body.toString());
+    var data = await jsonDecode(response.body.toString());
     var msg = data['choices'][0]['text'];
     return msg;
   }

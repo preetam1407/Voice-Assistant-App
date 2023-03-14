@@ -19,6 +19,7 @@ class MyApp extends StatelessWidget {
       title: 'Speech to text',
       theme: ThemeData(
         primarySwatch: Colors.blue,
+        useMaterial3: true,
       ),
     );
   }
