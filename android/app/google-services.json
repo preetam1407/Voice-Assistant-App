@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957859582786",
+    "project_id": "speechat-b6bdd",
+    "storage_bucket": "speechat-b6bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957859582786:android:d5e9ee7cd0ecaebaef2edb",
+        "android_client_info": {
+          "package_name": "com.example.voice_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957859582786-nf3f5tgorj88b75iq2lka3e2vl44igg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-V4Qcbos_zZyUVZEWN1o1VOO3Iz2Oh0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957859582786-nf3f5tgorj88b75iq2lka3e2vl44igg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
