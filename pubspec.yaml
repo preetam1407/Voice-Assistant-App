@@ -39,6 +39,16 @@ dependencies:
   avatar_glow: ^2.0.2
   speech_to_text: ^6.1.1
   http: ^0.13.5
+  flutter_riverpod: ^2.3.2
+  chat_gpt_sdk: ^2.0.2
+  firebase_core: ^2.9.0
+  firebase_storage: ^11.1.0
+  firebase_auth: ^4.4.0
+  cloud_firestore: ^4.5.0
+  fluttertoast: ^8.2.1
+  firebase_database: ^10.1.0
+  image_picker: ^0.8.7+1
+  hexcolor: ^3.0.1
 
 dev_dependencies:
   flutter_test:
